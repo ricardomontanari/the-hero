@@ -1,2 +1,2 @@
 # the-hero
- Primeiro jogos desenvolvido no curso StartGameDev
+ Primeiro jogo desenvolvido no curso StartGameDev!
